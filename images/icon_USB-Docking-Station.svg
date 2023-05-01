@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="144px" height="100px" viewBox="0 0 144 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard Copy 5</title>
+    <defs>
+        <linearGradient x1="40.4931303%" y1="91.3053779%" x2="59.5068697%" y2="8.7183132%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F4FCFF" offset="2%"></stop>
+            <stop stop-color="#C0F2FF" offset="12%"></stop>
+            <stop stop-color="#9BEBFF" offset="21%"></stop>
+            <stop stop-color="#84E6FF" offset="27%"></stop>
+            <stop stop-color="#7CE5FF" offset="32%"></stop>
+            <stop stop-color="#7CDBFF" offset="47%"></stop>
+            <stop stop-color="#7DC3FF" offset="73%"></stop>
+            <stop stop-color="#8CCAFF" offset="75%"></stop>
+            <stop stop-color="#B5DCFF" offset="80%"></stop>
+            <stop stop-color="#D5EBFF" offset="86%"></stop>
+            <stop stop-color="#ECF6FF" offset="91%"></stop>
+            <stop stop-color="#FAFCFF" offset="96%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="29.5807453%" y1="54.814601%" x2="70.3804348%" y2="45.185399%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F4FCFF" offset="2%"></stop>
+            <stop stop-color="#C0F2FF" offset="12%"></stop>
+            <stop stop-color="#9BEBFF" offset="21%"></stop>
+            <stop stop-color="#84E6FF" offset="27%"></stop>
+            <stop stop-color="#7CE5FF" offset="32%"></stop>
+            <stop stop-color="#7CDBFF" offset="47%"></stop>
+            <stop stop-color="#7DC3FF" offset="73%"></stop>
+            <stop stop-color="#8CCAFF" offset="75%"></stop>
+            <stop stop-color="#B5DCFF" offset="80%"></stop>
+            <stop stop-color="#D5EBFF" offset="86%"></stop>
+            <stop stop-color="#ECF6FF" offset="91%"></stop>
+            <stop stop-color="#FAFCFF" offset="96%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard-Copy-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_USB-Docking-Station" transform="translate(48.000000, 8.000000)" fill-rule="nonzero">
+            <path d="M37,79 L11,79 L11,0 L37,0 L37,79 Z M12.8705036,77.1284056 L35.1294964,77.1284056 L35.1294964,1.87159441 L12.8705036,1.87159441 L12.8705036,77.1284056 Z M28.1151079,68.1073205 L19.8848921,68.1073205 L19.8848921,51.9180289 L28.1151079,51.9180289 L28.1151079,68.1073205 Z M21.7553957,66.2357261 L26.2446043,66.2357261 L26.2446043,53.7896233 L21.7553957,53.7896233 L21.7553957,66.2357261 Z M28.1151079,43.8701729 L19.8848921,43.8701729 L19.8848921,27.6808813 L28.1151079,27.6808813 L28.1151079,43.8701729 L28.1151079,43.8701729 Z M21.7553957,41.9985785 L26.2446043,41.9985785 L26.2446043,29.5524757 L21.7553957,29.5524757 L21.7553957,41.9985785 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+            <path d="M48,85 L0,85 L0,77 L48,77 L48,85 Z M1.86335404,83.1524249 L46.136646,83.1524249 L46.136646,78.8475751 L1.86335404,78.8475751 L1.86335404,83.1524249 Z" id="Shape" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
+</svg>
