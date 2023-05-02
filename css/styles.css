@@ -162,11 +162,6 @@ header {
   transform: skew(-9deg, 0deg);
   filter: drop-shadow(0 0 10px rgba(255,255,255,.9));
   letter-spacing: 3px;
-  @supports (-webkit-background-clip:text) {
-    background: linear-gradient(-22deg, #fff 20%, #7ce5ff 40%, #fff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; 
-  }
 }
 #sec-hero h2 {
   color: #fff;
@@ -348,7 +343,7 @@ footer {
 .address {
   color: #333;
   font-size: 0.95rem;
-  margin-bottom: 1rem;
+  padding: 1rem 0;
 }
 .social-links {
 
