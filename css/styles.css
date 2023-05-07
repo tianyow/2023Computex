@@ -152,7 +152,7 @@ header {
   width: 100%;
   max-width: 1600px;
   margin: 0 auto;
-  padding: 1.5rem;
+  padding: 1.5rem 5vw;
 }
 #sec-hero h1 {
   color: #fff;
@@ -194,7 +194,7 @@ header {
 main {
   margin: 0 auto;
   max-width: 1600px;
-  padding-bottom: 3rem;
+  padding: 3rem;
 }
 main h2 {
   color: var(--blue-light);
@@ -425,6 +425,12 @@ footer {
   }
   .smi-logo {
     width: 220px;
+  }
+  main {
+    padding: 1rem 0;
+  }
+  section {
+    padding: 0 1rem;
   }
   #sec-hero p {
     padding-right: 1rem;
